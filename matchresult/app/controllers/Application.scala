@@ -6,7 +6,7 @@ import play.api.libs.json.Json._
 object Application extends Controller {
 
   def index = Action { implicit request =>
-    Ok(currentApi)
+    Ok("Match Result service")
   }
 
   private def currentApi(implicit request: RequestHeader) = {
