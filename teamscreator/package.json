@@ -1,0 +1,19 @@
+{
+  "name": "teamscreator",
+  "version": "0.0.0",
+  "description": "Teams Creator REST service",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "express": "~4.14.0",
+    "kerberos": "0.0.22",
+    "mongodb": "^2.2.11",
+    "mongoose": "~4.3.7"
+  }
+}
