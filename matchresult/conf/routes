@@ -1,2 +1,3 @@
 GET     /               controllers.Application.index
 POST    /matchresult    controllers.MatchResult.matchResult
+POST    /fixtureresult  controllers.MatchResult.fixtureResult
