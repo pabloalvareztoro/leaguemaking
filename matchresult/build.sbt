@@ -1,4 +1,4 @@
-name := """scala-dci"""
+name := """matchresult"""
 
 version := "1.0-SNAPSHOT"
 
