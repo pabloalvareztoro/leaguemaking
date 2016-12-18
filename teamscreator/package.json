@@ -1,0 +1,16 @@
+{
+  "name": "teamscreator",
+  "version": "1.0-SNAPSHOT",
+  "description": "Leaguemaker: Team Creator",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "author": "Pablo Álvarez",
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "express": "~4.14.0",
+    "kerberos": "0.0.22",
+    "mongodb": "^2.2.11",
+    "mongoose": "~4.3.7"
+  }
+}
